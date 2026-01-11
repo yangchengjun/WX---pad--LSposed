@@ -16,10 +16,11 @@
 ### 修改前（原始状态）
 <img src="figs/原始WX图.jpg" width="300" alt="修改前-显示设备登录状态"/>
 
-### 修改后效果
-https://github.com/user-attachments/assets/your-video-id
+### 修改后效果演示
 
-> 视频：[点击查看效果演示](figs/修改后效果展示.mp4)
+| 演示 1 | 演示 2 | 演示 3 |
+|--------|--------|--------|
+| <img src="figs/效果展示_1.gif" width="250"/> | <img src="figs/效果展示_2.gif" width="250"/> | <img src="figs/效果展示_3.gif" width="250"/> |
 
 ## 下载
 
